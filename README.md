@@ -43,8 +43,11 @@ pyinstaller --noconsole --onefile app_gui.py
 ```
 2. Once completed, find your standalone app inside the dist/ folder named app_gui.exe.
 
-
+Web App Image:
 <img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/0c231a57-47fe-42cd-abb7-238b09fbe0d3" />
+
+App GUI (app-gui.exe) Image:
+<img width="906" height="597" alt="image" src="https://github.com/user-attachments/assets/07bedb66-a778-43f9-b5b4-438fe0b51cd8" />
 
 
 
